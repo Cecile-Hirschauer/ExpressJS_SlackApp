@@ -1,0 +1,3 @@
+# Simple Slack App
+
+The application, within routes/alert.js will post the latest stock price of SHOP into a Slack channel.
